@@ -12,7 +12,7 @@ const DestinationItem = props => {
       </div>
       <p className="card-name">{name}</p>
     </li>
-  )
+  ) 
 }
 
 export default DestinationItem
